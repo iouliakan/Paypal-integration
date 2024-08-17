@@ -1,6 +1,6 @@
 paypal:
-  client-id: AQSla5ENAs3w3VorKwgc2bixvieIO1rnq5viWm8lB6zhuVQITv2zlJ3L_g5XkBUUO1uJI9eZo4WkA8Zo
-  client-secret: ECRt7gdNkOgHGl8wh4LlJx1FV4J7QtnPXHHVt_w9gJxJ61fPweZjWUqzNlZS0IqsV1ax0futdOUS0N-x
+  client-id:
+  client-secret:
   mode: sandbox
 server:
-  port: 8082
+  port:
