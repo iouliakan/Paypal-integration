@@ -12,8 +12,8 @@ Before you begin, ensure you have the following installed:
 Follow these steps to install and run the project locally:
 1. **Clone the repository:**
      ```bash
-   git clone https://github.com/your-username/paypal-integration-project.git
-   cd paypal-integration-project
+   git clone https://github.com/your-username/Paypal-integration.git
+   cd Paypal-integration
      ```
 2. **Build the project using Maven:**
    ```
