@@ -3,8 +3,8 @@ This project is a simple payment integration system using PayPal, built with Jav
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
-- **Java
-- **Maven
+- Java
+- Maven
 - A PayPal Developer account to create Sandbox API credentials
 - An IDE such as IntelliJ IDEA or Eclipse
 
@@ -23,7 +23,7 @@ Follow these steps to install and run the project locally:
    ```
    mvn spring-boot:run
    ```
-##Configuration
+## Configuration
 To configure the project for PayPal integration, you need to set up your PayPal credentials. This can be done in the application.yml file:
 ```
 paypal:
